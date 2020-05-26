@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  margin-top: 80px;
+}
+.MuiButton-label a {
+  text-decoration: none;
+  color: white;
+}
+.filter-container {
+  margin-top: 80px;
+  display: flex;
+  padding: 0 40px;
+}
